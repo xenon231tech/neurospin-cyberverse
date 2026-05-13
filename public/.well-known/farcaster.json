@@ -1,0 +1,12 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "NeuroSpin Cyberverse",
+    "iconUrl": "https://neurospin-cyberverse.vercel.app/icon.png",
+    "homeUrl": "https://neurospin-cyberverse.vercel.app",
+    "imageUrl": "https://neurospin-cyberverse.vercel.app/banner.png",
+    "buttonTitle": "Enter Cyberverse",
+    "splashImageUrl": "https://neurospin-cyberverse.vercel.app/splash.png",
+    "splashBackgroundColor": "#050816"
+  }
+}
